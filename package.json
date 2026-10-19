@@ -1,0 +1,13 @@
+{
+  "name": "codewidas-website",
+  "version": "1.0.0",
+  "description": "CodeWiDas Software Solutions Pvt Ltd - company website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
